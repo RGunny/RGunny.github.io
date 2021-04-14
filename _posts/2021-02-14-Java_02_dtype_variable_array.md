@@ -8,8 +8,6 @@ tags: [Java, liveStudy]
 toc: false
 ---
 
-# Java LiveStudy(2) - 자바 데이터 타입, 변수 그리고 배열
-
 ## Goal
 
 > 자바의 프리미티브 타입, 변수 그리고 배열을 사용하는 방법을 익힙니다.
